@@ -207,7 +207,7 @@ I am interested in opportunities involving:
 
 **AI / Generative AI • Agentic AI • Software Architecture • Solution Architecture • Enterprise Software Engineering • C# / .NET • Python • Azure • Application Modernization • Federal / DoD Technology**
 
-**LinkedIn:** Add your LinkedIn profile link here  
+**LinkedIn:** https://www.linkedin.com/in/l-brent-jones-80ab623  
 **Company:** LoBren Technology Solutions, LLC
 
 ---
